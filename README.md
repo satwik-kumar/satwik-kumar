@@ -34,7 +34,7 @@ func main() {
 	me := Engineer{
 		Name:    "Satwik Kumar",
 		Age:     19,
-		College: "MSRIT, Ai DS — Bangalore",
+		College: "MSRIT, AI DS — Bangalore",
 		Interests: []string{
 			"Distributed Systems",
 			"AI/ML Infrastructure",
