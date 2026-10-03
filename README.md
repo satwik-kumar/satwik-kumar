@@ -7,7 +7,7 @@
 <p>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:satwikkumar2007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=satwik-kumar&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 </p>
@@ -67,23 +67,6 @@ A fully local, privacy-first AI second brain — built in 3 weeks as a hackathon
 - React component architecture and state management for real data flows
 
 > *Built under pressure. Not selected for the hackathon. Shipped anyway.*
-
-</details>
-
-<details>
-<summary><b>🔬 AI Auditor Tool (Research Phase)</b> &nbsp;<code>Python · Go</code></summary>
-<br>
-
-Systematically probes how LLMs generate incorrect, unsafe, or subtly broken code — and documents the patterns.
-
-**Why it matters:** Most AI code benchmarks measure pass/fail on toy problems. This tool tests failure modes in realistic prompts — off-by-one errors, race conditions, subtle logic bugs, security anti-patterns.
-
-**Planned Go addition (Year 2):** A concurrency engine using goroutines to run 100+ prompt variations in parallel, dramatically speeding up the audit cycle.
-
-*Also serves as preparation material for G2i's RLHF evaluation track.*
-
-</details>
-
 ---
 
 ## 📊 GitHub Stats
