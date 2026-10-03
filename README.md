@@ -50,6 +50,7 @@ me = Engineer(
 <br>
 
 A fully local, privacy-first AI second brain — built in 3 weeks as a hackathon project.
+https://github.com/MayankDev-11/VIBKED
 
 **What it does:**
 - RAG pipeline over personal notes and documents using ChromaDB vector search
