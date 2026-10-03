@@ -46,7 +46,7 @@ me = Engineer(
 ## 📦 Featured Projects
 
 <details>
-<summary><b>🧠 VAULT — Local AI Second Brain</b> &nbsp;<code>Python · FastAPI · React · ChromaDB · Mem0</code></summary>
+<summary><b>🧠 VIBKED — Local AI Second Brain</b> &nbsp;<code>Python · FastAPI · React · ChromaDB · Mem0</code></summary>
 <br>
 
 A fully local, privacy-first AI second brain — built in 3 weeks as a hackathon project.
