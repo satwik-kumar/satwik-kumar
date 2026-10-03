@@ -66,8 +66,6 @@ A fully local, privacy-first AI second brain — built in 3 weeks as a hackathon
 - Git rebases, merge conflict resolution under deadline pressure
 - React component architecture and state management for real data flows
 
-> *Built under pressure. Not selected for the hackathon. Shipped anyway.*
-
 </details>
 
 ---
