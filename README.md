@@ -9,7 +9,7 @@
   &nbsp;
   <a href="mailto:satwikkumar2007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=satwik-kumar&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+  <a href="https://x.com/Satwik_99"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 </div>
