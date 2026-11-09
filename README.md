@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-  <a href="https://www.linkedin.com/in/satwik-kumar099"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/satwik-kumar-590702441"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:satwikkumar2007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
